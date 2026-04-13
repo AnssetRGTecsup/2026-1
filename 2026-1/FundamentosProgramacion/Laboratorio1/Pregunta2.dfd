@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'Ingresar el radio de la circunferencia para calcular el area:'
+5
+1
+1
+r
+6
+3
+1
+a
+3
+r*r
+2
+PI
+13
+3.14159265359
+1
+a
+6
+a * PI
+4
+1
+1
+a
+1

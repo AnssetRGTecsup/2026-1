@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+'Ingresar el sueldo del empleado y luego el interes (%) del banco:'
+5
+1
+15
+sueldo, interes
+4
+1
+112
+'Se calculara el monto ganado por interes compuesto, es decir, el interes se aplicara al monto del mes anterior'
+6
+1
+2
+mf
+29
+sueldo * (1 + interes/100) ^5
+4
+1
+53
+'El monto total obtenido despues de 5 meses es: ', mf
+1

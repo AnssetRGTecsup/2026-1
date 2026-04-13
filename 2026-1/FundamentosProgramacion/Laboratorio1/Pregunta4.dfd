@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Ingresar el sueldo del empleado:'
+5
+1
+6
+sueldo
+4
+1
+51
+'El interes generado por el banco es de 2% mensual'
+6
+1
+8
+ganancia
+13
+sueldo * 0.02
+4
+1
+54
+'La ganancia obtenida es: ', ganancia, ' nuevos soles'
+1

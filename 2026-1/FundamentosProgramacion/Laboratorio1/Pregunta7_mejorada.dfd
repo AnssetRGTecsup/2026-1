@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Ingrese las notas Teoria, Practica y Examen Final:'
+5
+1
+10
+nt, np, ne
+4
+1
+49
+'Los pesos son de 30%, 40% y 30% respectivamente'
+6
+3
+2
+nt
+8
+nt * 0.3
+2
+np
+8
+np * 0.4
+2
+ne
+8
+ne * 0.3
+6
+1
+2
+nf
+12
+nt + np + ne
+4
+1
+27
+'La nota final es de: ', nf
+7
+0
+1
+10
+nf > 12.45
+7
+0
+1
+9
+nf > 10.5
+4
+1
+11
+'Reprobado'
+13
+4
+1
+14
+'Sustitutorio'
+13
+13
+4
+1
+10
+'Aprobado'
+13
+1

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'Ingresar el monto total de la compra:'
+5
+1
+5
+monto
+4
+1
+110
+'Se le aplicara un descuento base de 15%, en caso que su compra sea mayor a 15000 tendra un adicional del 20%'
+7
+0
+1
+13
+monto > 15000
+6
+1
+9
+descuento
+12
+monto * 0.15
+13
+6
+1
+9
+descuento
+16
+monto * 0.15*1.2
+13
+6
+1
+11
+monto_total
+17
+monto - descuento
+4
+1
+84
+'El descuento obtenido es de ', descuento, ' y su monto total a pagar ', monto_total
+1

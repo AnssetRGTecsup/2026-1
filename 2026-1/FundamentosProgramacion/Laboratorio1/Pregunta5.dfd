@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+'Ingresar el sueldo del empleado y luego el interes (%) del banco:'
+5
+1
+15
+sueldo, interes
+4
+1
+59
+'Se calculara la ganancia y monto total al cabo de 5 meses'
+6
+2
+8
+ganancia
+24
+sueldo * interes/100 * 5
+11
+monto_total
+18
+sueldo  + ganancia
+4
+1
+88
+'La ganancia obtenida es de ', ganancia, ' y el monto total obenido es de ', monto_total
+1

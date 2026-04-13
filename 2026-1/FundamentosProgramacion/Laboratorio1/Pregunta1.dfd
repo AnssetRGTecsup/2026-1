@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+74
+'Ingresar los lados del triangulo rectangulo para calcular la hipotenusa:'
+5
+1
+4
+a, b
+6
+2
+1
+c
+9
+a*a + b*b
+1
+c
+7
+c^(1/2)
+4
+1
+1
+c
+1

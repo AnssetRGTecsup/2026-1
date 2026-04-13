@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'Ingresar la base y altura del triangulo para calcular el area:'
+5
+1
+4
+b, h
+6
+2
+4
+area
+5
+b * h
+4
+area
+8
+area / 2
+4
+1
+4
+area
+1
