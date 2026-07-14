@@ -6,13 +6,13 @@
 * Huamán Vidal
 * Medina Fidel
 
-### [Registrar Estudiante](ProyectoFinalFundamentos/RegistrarEstudiante.py.py)
+### [Registrar Estudiante](ProyectoFinalFundamentos/RegistrarEstudiante.py)
 * 
 
 ### [Actualizar Datos del Estudiante](ProyectoFinalFundamentos/ActualizarEstudiante.py)
 * 
 
-### [Registrar Curso](ProyectoFinalFundamentos/RegistrarCurso.py.py)
+### [Registrar Curso](ProyectoFinalFundamentos/RegistrarCurso.py)
 * Structure
 ```py
 estudiante[EST_CURSOS][nombre_curso] = {
@@ -22,7 +22,7 @@ estudiante[EST_CURSOS][nombre_curso] = {
     }
 ```
 
-### [Actualizar Evaluaciones](ProyectoFinalFundamentos/ActualizarEvaluaciones.py.py)
+### [Actualizar Evaluaciones](ProyectoFinalFundamentos/ActualizarEvaluaciones.py)
 * Not bucled on validation
 ```py
     curso_llave = None
