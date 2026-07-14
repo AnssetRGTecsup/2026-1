@@ -1,0 +1,4 @@
+ESTUDIANTE|Jefer|C24|1
+CURSO|Matematica|12
+EVAL|Matematica|PA|16.0|0.2|10/06/2024
+HORAS|Matematica|3.0|10/07/2025

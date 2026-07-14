@@ -1,0 +1,363 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "Cristian Ventura Ponce",
+            "codigo": "3214",
+            "ciclo": 1,
+            "cursos": [
+                {
+                    "nombre": "Fundamentos de Programación",
+                    "creditos": 1,
+                    "evaluaciones": {
+                        "PA1": {
+                            "fecha": "2026-04-21",
+                            "nota": 18.0,
+                            "peso": 0.2
+                        },
+                        "PA2": {
+                            "fecha": "2026-05-24",
+                            "nota": 13.0,
+                            "peso": 0.3
+                        },
+                        "Taller1": {
+                            "fecha": "2026-06-25",
+                            "nota": 15.0,
+                            "peso": 0.2
+                        },
+                        "Taller2": {
+                            "fecha": "2026-06-06",
+                            "nota": 19.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-11",
+                            "horas": 3.0
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Matemática",
+                    "creditos": 2,
+                    "evaluaciones": {
+                        "Teoria1": {
+                            "fecha": "2026-03-23",
+                            "nota": 16.0,
+                            "peso": 0.2
+                        },
+                        "Teoria2": {
+                            "fecha": "2026-05-15",
+                            "nota": 14.0,
+                            "peso": 0.3
+                        },
+                        "Taller1": {
+                            "fecha": "2026-05-04",
+                            "nota": 19.0,
+                            "peso": 0.2
+                        },
+                        "Taller2": {
+                            "fecha": "2026-06-23",
+                            "nota": 12.5,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-11",
+                            "horas": 4.0
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Diseño de Interfases de Programación",
+                    "creditos": 2,
+                    "evaluaciones": {
+                        "Teoria 1": {
+                            "fecha": "2026-04-23",
+                            "nota": 15.0,
+                            "peso": 0.2
+                        },
+                        "Teoria 2": {
+                            "fecha": "2026-06-04",
+                            "nota": 17.0,
+                            "peso": 0.3
+                        },
+                        "Taller 1": {
+                            "fecha": "2026-05-04",
+                            "nota": 17.0,
+                            "peso": 0.2
+                        },
+                        "Taller 2": {
+                            "fecha": "2026-07-07",
+                            "nota": 13.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-11",
+                            "horas": 4.0
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Desarrollo Personal",
+                    "creditos": 2,
+                    "evaluaciones": {
+                        "Teoria1": {
+                            "fecha": "2026-05-04",
+                            "nota": 20.0,
+                            "peso": 0.2
+                        },
+                        "Teoria2": {
+                            "fecha": "2026-06-30",
+                            "nota": 14.0,
+                            "peso": 0.3
+                        },
+                        "Taller1": {
+                            "fecha": "2026-05-20",
+                            "nota": 18.0,
+                            "peso": 0.2
+                        },
+                        "Taller2": {
+                            "fecha": "2026-07-14",
+                            "nota": 14.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-11",
+                            "horas": 2.0
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Tutoria",
+                    "creditos": 2,
+                    "evaluaciones": {
+                        "Teoira Final": {
+                            "fecha": "2026-07-21",
+                            "nota": 20.0,
+                            "peso": 0.25
+                        },
+                        "Taller final": {
+                            "fecha": "2026-07-23",
+                            "nota": 15.0,
+                            "peso": 0.5
+                        }
+                    },
+                    "horas_estudio": []
+                },
+                {
+                    "nombre": "Ciencias Básicas",
+                    "creditos": 3,
+                    "evaluaciones": {
+                        "Taller final": {
+                            "fecha": "2026-07-12",
+                            "nota": 17.0,
+                            "peso": 0.2
+                        },
+                        "Teoria Final": {
+                            "fecha": "2026-05-12",
+                            "nota": 19.0,
+                            "peso": 0.2
+                        },
+                        "Trabajo Final": {
+                            "fecha": "2026-07-15",
+                            "nota": 12.0,
+                            "peso": 0.2
+                        }
+                    },
+                    "horas_estudio": []
+                },
+                {
+                    "nombre": "Cáñculo y Estadística",
+                    "creditos": 3,
+                    "evaluaciones": {
+                        "Trabajo Final (Teoria)": {
+                            "fecha": "2026-07-16",
+                            "nota": 20.0,
+                            "peso": 0.2
+                        },
+                        "Exposicion Final (taller)": {
+                            "fecha": "2026-07-01",
+                            "nota": 13.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": []
+                },
+                {
+                    "nombre": "Introduccion a la Programación",
+                    "creditos": 3,
+                    "evaluaciones": {
+                        "Exposicion final": {
+                            "fecha": "2026-07-12",
+                            "nota": 20.0,
+                            "peso": 0.3
+                        },
+                        "Teoria Final": {
+                            "fecha": "2026-07-21",
+                            "nota": 13.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": []
+                }
+            ],
+            "historial": [
+                {
+                    "fecha": "2026-07-11",
+                    "promedio_general": 15.64,
+                    "horas_totales": 13.0,
+                    "mejor_curso": "Fundamentos de Programación",
+                    "peor_curso": "Matemática"
+                },
+                {
+                    "fecha": "2026-07-13",
+                    "promedio_general": 12.81,
+                    "horas_totales": 13.0,
+                    "mejor_curso": "Fundamentos de Programación",
+                    "peor_curso": "Cáñculo y Estadística"
+                }
+            ]
+        },
+        {
+            "nombre": "Máximo de la Torre",
+            "codigo": "2131",
+            "ciclo": 2,
+            "cursos": [
+                {
+                    "nombre": "Cálculo y Estadística",
+                    "creditos": 3,
+                    "evaluaciones": {
+                        "Teoria 1": {
+                            "fecha": "2026-05-21",
+                            "nota": 16.0,
+                            "peso": 0.25
+                        },
+                        "Teoria 2": {
+                            "fecha": "2026-06-04",
+                            "nota": 17.0,
+                            "peso": 0.2
+                        },
+                        "Laboratiro 1": {
+                            "fecha": "2026-05-12",
+                            "nota": 17.0,
+                            "peso": 0.25
+                        },
+                        "Laboratorio 4": {
+                            "fecha": "2026-07-21",
+                            "nota": 16.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-13",
+                            "horas": 3.0
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Introduccion a la Programación",
+                    "creditos": 3,
+                    "evaluaciones": {
+                        "teoria 1": {
+                            "fecha": "2026-03-23",
+                            "nota": 20.0,
+                            "peso": 0.2
+                        },
+                        "Teoria 2": {
+                            "fecha": "2026-05-30",
+                            "nota": 13.0,
+                            "peso": 0.3
+                        },
+                        "Laboratorio 1": {
+                            "fecha": "2026-04-21",
+                            "nota": 17.0,
+                            "peso": 0.2
+                        },
+                        "Laboratorio 2": {
+                            "fecha": "2026-04-21",
+                            "nota": 18.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-13",
+                            "horas": 4.0
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Tutoria",
+                    "creditos": 2,
+                    "evaluaciones": {
+                        "Teoria": {
+                            "fecha": "2026-05-21",
+                            "nota": 17.0,
+                            "peso": 0.5
+                        },
+                        "Taller general": {
+                            "fecha": "2026-07-30",
+                            "nota": 20.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-13",
+                            "horas": 2.0
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Ciencias Básicas",
+                    "creditos": 3,
+                    "evaluaciones": {
+                        "Teoria 1": {
+                            "fecha": "2026-05-23",
+                            "nota": 20.0,
+                            "peso": 0.2
+                        },
+                        "Laboratorio 1": {
+                            "fecha": "2026-04-21",
+                            "nota": 20.0,
+                            "peso": 0.2
+                        },
+                        "Teoria 2": {
+                            "fecha": "2026-06-02",
+                            "nota": 14.0,
+                            "peso": 0.3
+                        },
+                        "Trabajo final": {
+                            "fecha": "2026-07-27",
+                            "nota": 14.0,
+                            "peso": 0.3
+                        }
+                    },
+                    "horas_estudio": [
+                        {
+                            "fecha": "2026-07-13",
+                            "horas": 4.0
+                        }
+                    ]
+                }
+            ],
+            "historial": [
+                {
+                    "fecha": "2026-07-13",
+                    "promedio_general": 16.01,
+                    "horas_totales": 13.0,
+                    "mejor_curso": "Introduccion a la Programación",
+                    "peor_curso": "Tutoria"
+                }
+            ]
+        }
+    ],
+    "codigo_activo": "3214"
+}
